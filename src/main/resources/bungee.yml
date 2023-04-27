@@ -1,0 +1,5 @@
+name: PossiestCoreProxy
+version: ${project.version}
+author: "Possiest"
+main: com.noximity.noxiauthbungee.NoxiAuthBungee
+description:
