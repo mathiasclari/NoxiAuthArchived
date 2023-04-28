@@ -2,4 +2,4 @@ name: NoxiAuth
 version: ${project.version}
 author: "Noximity"
 main: com.noximity.noxiauthbungee.NoxiAuthBungee
-description:
+description: NoxiAuth for BungeeCord
