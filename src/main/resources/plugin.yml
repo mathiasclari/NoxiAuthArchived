@@ -1,4 +1,4 @@
 name: NoxiAuth
 version: '${version}'
-main: com.noximity.noxiauth.NoxiAuth
+main: com.noximity.noxiauthpaper.NoxiAuth
 api-version: 1.19
